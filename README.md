@@ -17,7 +17,52 @@
 </div>
 <div>
   
-## Status:
+## Status Geral:
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150">
+  <strong>📦</strong><br>
+  <strong>32</strong><br>
+  Repositórios
+</td>
+
+<td align="center" width="150">
+  <strong>🐍</strong><br>
+  <strong>Python</strong><br>
+  Principal
+</td>
+
+<td align="center" width="150">
+  <strong>⚙️</strong><br>
+  <strong>C++</strong><br>
+  Desenvolvimento
+</td>
+
+<td align="center" width="175">
+  <strong>🪐</strong><br>
+  <strong>Jupyter</strong><br>
+  Ferramenta-Principal
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="4">
+  🎓 Educação &nbsp; • &nbsp;
+  📊 Data Science &nbsp; • &nbsp;
+  🤖 IA e Automações &nbsp; • &nbsp;
+  🗄️ Banco de Dados
+  
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
 <div align="center">
   <a href="https://github.com/Thiago-Yukio">
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Yukio&theme=dark" alt="Sequência de Commits" />
@@ -28,7 +73,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer"/>
 </div>
-
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Yukio&layout=compact&theme=dark&hide_border=true&langs_count=5"/>
 >>
