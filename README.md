@@ -21,9 +21,15 @@
 <div align="center">
   <a href="https://github.com/Thiago-Yukio">
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Yukio&theme=dark" alt="Sequência de Commits" />
+
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer"/>
 </div>
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Yukio&layout=compact&theme=dark&hide_border=true&langs_count=5"/>
 >>
+
