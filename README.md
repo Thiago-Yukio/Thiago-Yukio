@@ -23,19 +23,19 @@
 
 <table>
 <tr>
-<td align="center" width="150">
+<td align="center" width="160">
   <strong>📦</strong><br>
   <strong>32</strong><br>
   Repositórios
 </td>
 
-<td align="center" width="150">
+<td align="center" width="160">
   <strong>🐍</strong><br>
   <strong>Python</strong><br>
   Principal
 </td>
 
-<td align="center" width="150">
+<td align="center" width="160">
   <strong>⚙️</strong><br>
   <strong>C++</strong><br>
   Desenvolvimento
@@ -50,6 +50,7 @@
 
 <tr>
 <td align="center" colspan="4">
+   &nbsp; • &nbsp;
   🎓 Educação &nbsp; • &nbsp;
   📊 Data Science &nbsp; • &nbsp;
   🤖 IA e Automações &nbsp; • &nbsp;
