@@ -16,12 +16,10 @@
 <img align="center" alt="SQLite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 <div>
-  ## ⚙️ Estatísticas GitHub
-
+  
+## Status:
 <div align="center">
-
-<a href="https://github.com/Thiago-Yukio">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Yukio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Yukio&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <a href="https://github.com/Thiago-Yukio">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Yukio&theme=dark" alt="Sequência de Commits" />
+  </a>
 </div>
